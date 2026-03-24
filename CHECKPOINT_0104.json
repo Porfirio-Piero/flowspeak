@@ -1,0 +1,13 @@
+﻿{
+    "details":  {
+                    "lines":  null,
+                    "is_default":  null,
+                    "size":  null
+                },
+    "project_path":  "C:\\Users\\devpi\\.openclaw\\workspace\\overnight-factory\\2026-03-24\\flowspeak-repo",
+    "timestamp":  "\/Date(1774328691052)\/",
+    "reason":  "No page.tsx found",
+    "phase":  "checkpoint",
+    "status":  "failed",
+    "progress":  0
+}
